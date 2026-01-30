@@ -4,7 +4,7 @@ This example demonstrates how to build a conversational AI Voice Agent using Vid
 
 # Architecture Overview
 
-The agent is built using VideoSDK’s Cascading Pipeline, where each component operates continuously instead of sequential batch processing.
+The agent is built using VideoSDK’s Cascading Pipeline, which provides a flexible, modular approach to building AI agents by allowing you to mix and match different components for Speech-to-Text (STT), Large Language Models (LLM), Text-to-Speech (TTS), Voice Activity Detection (VAD), and Turn Detection.
 <img width="3026" height="582" alt="videosdk_casading_pipeline" src="https://github.com/user-attachments/assets/cbdb6a40-efb4-41e9-b056-868b0f9ba287" />
 
 ## Prerequisites
