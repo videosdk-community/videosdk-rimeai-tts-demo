@@ -2,7 +2,7 @@
 
 This example demonstrates how to build a conversational AI Voice Agent using VideoSDK's Cascading Pipeline with [**RimeAI TTS**](https://pypi.org/project/videosdk-plugins-rime/).
 
-# Architecture Overview
+## Architecture Overview
 
 The agent is built using VideoSDK’s Cascading Pipeline, which provides a flexible, modular approach to building AI agents by allowing you to mix and match different components for Speech-to-Text (STT), Large Language Models (LLM), Text-to-Speech (TTS), Voice Activity Detection (VAD), and Turn Detection.
 <img width="3026" height="582" alt="videosdk_casading_pipeline" src="https://github.com/user-attachments/assets/cbdb6a40-efb4-41e9-b056-868b0f9ba287" />
@@ -60,13 +60,11 @@ Run the agent with the following command:
 python main.py
 ```
 
-## What Happens Next?
-
 The agent creates a VideoSDK playground session and a joinable URL is printed in the terminal, Open the URL in your browser and Start speaking the agent will respond in real time 🎙️
 
 <img width="1459" height="815" alt="Screenshot 2026-01-29 at 12 03 20 PM" src="https://github.com/user-attachments/assets/0b6e20eb-7d84-404e-bdea-ad97757a8230" />
 
-## Documentation
+## Resources
 
 - [RimeAI TTS Plugin Documentation](https://docs.videosdk.live/ai_agents/plugins/tts/rime-tts)
 - [Cascading Pipeline Documentation](https://docs.videosdk.live/ai_agents/core-components/cascading-pipeline)
