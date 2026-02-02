@@ -11,7 +11,7 @@ The agent is built using VideoSDK’s Cascading Pipeline, which provides a flexi
 
 - Python 3.11+
 - A [VideoSDK Account](https://dub.sh/A1vscPp)
-- A [RimeAI API Key](https://rime.ai/)
+- A [RimeAI API Key](app.rime.ai/tokens)
 - A [Deepgram API Key](https://console.deepgram.com/apikeys)
 - A [Google Gemini API Key](https://aistudio.google.com/apikey)
 
